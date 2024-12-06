@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="./css/main.css">
+    <title>grad-portfolio-template</title>
+</head>
+<body>
+    <main>
+		
+	
+      <div id="hero" class="full-page-section">
+			<div class="video-background">
+    <!-- YouTube Video Embedded as Fullscreen Background -->
+    <!-- Optional Overlay Content -->
+
+  </div>
+        <ul id="hero-social-list">
+                <li class="be">
+                    <a href="#" rel="external nofollow">
+                    Marie Pelchat</a>
+            </li>
+                <li class="em">
+                    <a href="#" rel="external nofollow">
+                        mariepelchat@gmail.com
+                    </a>
+                </li>
+                <li class="insta">
+                    <a href="#" rel="external nofollow">
+                        @mossyminds.designstudio
+                    </a>
+                </li>
+            </ul>
+      </div>
+      <section id="about-intro" class="full-page-section">
+            <div class="row">
+<div class="column intro">
+        <h2 class="headline">ENJOY YOUR VISIT! :)</h2>
+        <p class="intro-text"> Welcome to my portfolio website, whoever may be visiting! Here you will find a collection of my artworks and designs that I've accumulated throughout the years as an illustrator and graphic designer! Regular updates will be shelled out to keep this site up-to-date on all the different types of work I get done in my career! You can also contact me through any of the links on this site for inquiries about design or illustration commissions! :)</p>
+</div>
+            </div>
+      </section>
+      <section id="about-detail">
+            <div class="row">
+              <img src="img/mossyminds-logogreen.png" alt="logo" width="150" height="295" class="logo">
+              <div class="column">
+                  <img src="img/Lenover_creative_headshot_pelchat.jpeg" alt="my head shot" width="275" height="271" class="headshot">
+                </div>
+<div class="column">
+          <div class="row">
+                        <div class="column">
+<div class="row about">
+                               
+								
+				<div class="column about-me">
+                                    <h2 class="about-me">ABOUT ME</h2>
+              </div>
+                                <div class="column">
+                                    <p class="about-text">Hello, my name is Marie Pelchat, and I’m a graphic designer and freelance artist finishing up my diploma in Graphic Design from St. Clair College, based in Windsor, Ontario. Just starting off in the industry, I am interested in working on layout and illustrations (such as posters and logo design). I am open to exploring and working on new, different areas of design, adding my own flair to everything I help create and connecting to others in, and outside, the industry. </p>
+                                </div>
+                          </div>
+                            <hr>
+                            <div class="row">
+                                <div class="column">
+                                <h2>Skills</h2>
+                                <ul>
+                                    <li>Digital Illustration</li>
+                                    <li>Poster Design</li>
+                                    <li>Branding Design</li>
+                                </ul>
+                                <h2>Education</h2>
+                                <ul>
+                                    <li>Graphic Design - St. Clair College</li>
+                                </ul>
+                                </div>
+                              <div class="column">
+                                    <h2>Software</h2>
+                                    <ul>
+                                        <li>Photoshop</li>
+                                        <li>Illustrator</li>
+										<li>InDesign</li>
+                                    </ul>
+                                    <h2>Contact</h2>
+                                    <ul>
+                                        <li><a href="mailto:email@email.com" class="email">mariepelchat@gmail.com</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                      </div>
+        </div>
+              </div>
+        </div>
+      </section>
+      <section>
+        <section class="full-page-section" id="project-1">
+          <div class="column" id="hero-project"> </div>
+          <div class="row">
+            <div class="project-info">
+              <h2 class="project-title">Personal Photography - Tree Stump</h2>
+<ul class="project-tags">
+            <li class="tag green">Photography&nbsp;</li>
+                <li class="tag green">Adobe Photoshop&nbsp;</li>
+              </ul>
+              <p class="project-text">In my personal photography, I tend to lean toward nature or things that make me happy/what i find interesting. I found this tree stump and admired the details of the bark and plants around it. This image focuses on those details, bringing us close-up to really take in the view.</p>
+              <p class="project-text">&nbsp;</p>
+            </div>
+          </div>
+        </section>
+            <h1>Projects</h1>
+        <div id="category-selection">
+            <div class="category-card"><img src="img/Lighthouse_In_A_Storm.jpg" width="400" height="567" alt=""/>
+                <h2><a href="#">Lighthouse In A Storm</a></h2>
+            </div>
+			<div class="project-info project-2">
+                <h2 class="project-title">Illustration - Lighthouse In A Storm&nbsp;&nbsp;</h2>
+                <ul class="project-tags">
+                  <li class="tag green">Illustration</li>
+                </ul>
+                <p class="project-text">Something I drew on my own time. The feeling I was trying to put across for this piece is a sense of fear and tension. The contrast of the gigantic lighthouse and giant squid, and the miniscule lighthouse watchmen, makes the viewer feels small, which was also a theme I incorporated into the drawing.</p>
+          </div>
+<div class="category-card"><img src="img/Pelchat_Project2.png" alt="" width="450" height="342">
+        <h2><a href="#" class="gamelogo">Game Logo - Forest Dweller</a></h2>
+            </div>
+          <div class="row">
+              <div class="project-info project-2">
+                <h2 class="project-title">Game Logo - Forest Dweller&nbsp;&nbsp;</h2>
+                <ul class="project-tags">
+                  <li class="tag green">Logo Design</li>
+                  <li class="tag green">Spot Illustration</li>
+                  <li class="tag green">Illustration</li>
+                </ul>
+                <p class="project-text">A mobile game logo created for my 2nd year&nbsp;Illustration class. The name I came up with was "Forest Dweller", leaning into my love of creating artwork related to nature and fantasy settings, as was the goal with this logo. Texture was a big part of the creation of the typography, the word 'Forest' being made of woods, and 'Dweller' being made of stone.&nbsp;&nbsp;</p>
+              </div>
+            </div>
+            <div class="category-card"><img src="img/Pelchat-Package.png" alt="" width="600" height="291" class="package">
+              <h2><a href="#">Tea Packaging - Wishing Well Tea Co. </a></h2>
+            </div>
+			<div class="project-info project-2">
+                <h2 class="project-title">Packaging - Wishing Well Tea Co.</h2>
+                <ul class="project-tags">
+                  <li class="tag green">Layout</li>
+                  <li class="tag green">Production</li>
+                  <li class="tag green">Illustration</li>
+                </ul>
+                <p class="project-text">Put toether for a production class in 2nd year, we were assigned to create and design the packaging for a coffee or tea brand, or anything else we felt would make for a good packaging design. A tea brand was what came to mind for me, where i incorporated the imagery of green tea leaves themselves, and gnomes, to add a touch of fantasy to the branding, as well as the actual well itself.</p>
+          </div>
+          <div class="category-card"><img src="img/Pelchat-TypePoster.png" alt="" width="265" height="425">
+                <h2><a href="#">Typographic History Channel Poster - Folk Mythology</a></h2>
+            </div>
+			<div class="project-info project-2">
+                <h2 class="project-title">History Channel Typographic Poster - Folk Mythology</h2>
+                <ul class="project-tags">
+                  <li class="tag green">Poster Design</li>
+                  <li class="tag green">Typography</li>
+                  <li class="tag green">Adobe Illustrator</li>
+                </ul>
+                <p class="project-text">This poster was assigned to us as the creation of a type-centered poster for a History Channel television show that we got to come up with ourselves. I came up wih a TV show centered around folk mythology, such as myths of the Sasquatch, gnomes, among others. I gave the whole canvas a texture to add to the sense of tension and mystery of looking for creatures that are mysterious in the eyes of the viewer of the poster AND the show. </p>
+          </div>
+        </div>
+        </section>
+<div class="copyright">Copyright © Mossy Minds Design 2024</div>
+    </main>
+</body>
+</html>
